@@ -1,0 +1,9 @@
+body.darkBlue {
+    background-color: #23212c;
+    color: aquamarine;
+}
+
+.gallery-container {
+ display: grid;
+ grid-template-columns: 33% 33% 33%;
+ }
